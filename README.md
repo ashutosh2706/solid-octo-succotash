@@ -1,5 +1,5 @@
 ## Implementations : 
-	* Pagination
-	* JWT Authentication & RBAC
-	* Versioning
-	* Middleware
+* Pagination
+* JWT Authentication & RBAC
+* Versioning
+* Middleware
